@@ -1,0 +1,85 @@
+/* Universal */
+body {
+  background-color: white; 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0.2rem;
+}
+
+h2 h3, p {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+h3 {
+    font-size: 0.8rem;
+    margin: 0.1rem;
+}
+
+p {
+    font-size: 0.7rem;
+    margin: 0.5rem;
+}
+
+/* Colors */
+.design-section {
+    border: solid black;
+ 
+}
+
+/* colors obtained from material.io/design material design palette*/
+.primary {
+    width: 100%;
+    display: block;
+}
+
+.primary-color, .secondary-color {
+    width: 30%;
+    display: inline-block;
+    height: 5rem;
+    margin: 0.2rem;
+}
+
+.pmain {
+    background-color: #80d8ff
+}
+
+.plight {
+    background-color: #b5ffff
+}
+
+.pdark {
+    background-color: #49a7cc
+}
+
+.smain {
+    background-color: #ccff90
+}
+
+.slight {
+    background-color: #ffffc2
+}
+
+.sdark {
+    background-color: #99cc60
+}
+
+/* Fonts */
+.monotype {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.primary-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Text Types */
