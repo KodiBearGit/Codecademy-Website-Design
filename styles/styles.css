@@ -74,6 +74,16 @@ p {
 }
 
 /* Fonts */
+.font-box {
+    display: block;
+    width: auto;
+    margin-left: 5%;
+}
+
+.design-section h3 {
+    margin-top: 1rem;
+}
+
 .monotype {
     font-family: 'Ubuntu Mono', monospace;
 }
@@ -82,4 +92,19 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
+.secondary-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.normal, .bold, .italic {
+    text-align: left;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
 /* Text Types */
