@@ -33,7 +33,7 @@ p {
 /* Colors */
 .design-section {
     border: solid black;
- 
+    margin-bottom: 0.3rem;
 }
 
 /* colors obtained from material.io/design material design palette*/
